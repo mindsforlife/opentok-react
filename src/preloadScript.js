@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import getDisplayName from 'react-display-name';
 import scriptjs from 'scriptjs';
 
-const DEFAULT_SCRIPT_URL = 'https://static.opentok.com/v2/js/opentok.min.js';
+const DEFAULT_SCRIPT_URL = 'https://static.opentok.com/v2.10/js/opentok.min.js';
 
 /*
 This higher-order component will load the OpenTok client thru a script tag.
